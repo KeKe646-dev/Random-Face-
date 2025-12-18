@@ -1,0 +1,5 @@
+This game is a randomized makeup generator. When the player presses "C" on their keyboard, you can change the hair and makeup of the character.
+I felt I did a very accuracte sketch by using rays and the random function to create color combinations that are not repetitive or align with each other.
+A struggle with my limited knowlage of P5 was when I struggled to randomize the colors of specific parts of the character as I was more framillar of randomizing sizes and shapes.
+Executing this project was very sucsesful as my inital goal of generating multiple colors onto diffrent shapes was sucsesful. 
+Additionally, I learned on my own how to implement sound into p5 to make my sketch feel more game like.
